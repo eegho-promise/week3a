@@ -4,3 +4,6 @@ c=10
 print (a>b)
 print (a<b)
 print (c)
+d=a+b+c
+print ("d=",d)
+
